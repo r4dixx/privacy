@@ -1,4 +1,6 @@
-# Privacy Policy
-🌍 [English version](./privacy_en)  
-🇫 [Version française](./privacy_fr)
+# Privacy Policy / Politique de Confidentialité
 
+Welcome! Please choose your language:
+
+- 🌍 [English version](./en)
+- 🇫🇷 [Version française](./fr)
